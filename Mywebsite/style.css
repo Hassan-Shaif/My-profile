@@ -32,7 +32,7 @@ header{
     text-decoration:none;
     text-transform:uppercase;
     color:#3a6cf4;
-    font-weight:700;
+    font-weight:650;
     font-size:1.8em
 
 }
@@ -90,7 +90,7 @@ section{
 
 .btn{
     color:#fff;
-    background:black;
+    background:gray;
     font-size:1.1em;
     font-weight:600;
     display:inline-block;
